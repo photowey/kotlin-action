@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: plugin-in-action
+  profiles:
+    active: dev
